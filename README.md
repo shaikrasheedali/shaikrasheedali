@@ -1,20 +1,19 @@
 <!--
-┌───────────────────────────────────────────────────────────────────┐
-│  ██████╗ ██████╗  █████╗ ██╗  ██╗███████╗██████╗ ██╗     ██╗██╗     │
-│  ██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝██╔══██╗██║     ██║██║     │
-│  ██████╔╝██████╔╝███████║███████║█████╗  ██████╔╝██║     ██║██║     │
-│  ██╔═══╝ ██╔══██╗██╔══██║██╔══██║██╔══╝  ██╔══██╗██║     ██║██║     │
-│  ██║     ██║  ██║██║  ██║██║  ██║███████╗██║  ██║███████╗██║███████╗│
-│  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝│
-│                                                                   │
-│      Crafted with 🤍 by Rasheed Ali & Gemini AI                   │
-│      Version: 2.0 "The Eighth Wonder"                             │
-└───────────────────────────────────────────────────────────────────┘
+=========================================================================================================================
+=      ██████╗ ██╗   ██╗███████╗███████╗██╗  ██╗███████╗██╗   ██╗██████╗         ██╗   ██╗██╗██████╗ ██╗   ██╗███████╗      =
+=      ██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██║  ██║██╔════╝╚██╗ ██╔╝╚════██╗        ██║   ██║██║██╔══██╗██║   ██║██╔════╝      =
+=      ██████╔╝ ╚████╔╝ █████╗  █████╗  ███████║█████╗   ╚████╔╝  █████╔╝        ██║   ██║██║██████╔╝██║   ██║███████╗      =
+=      ██╔══██╗  ╚██╔╝  ██╔══╝  ██╔══╝  ██╔══██║██╔══╝    ╚██╔╝  ██╔═══╝         ██║   ██║██║██╔══██╗╚██╗ ██╔╝╚════██║      =
+=      ██████╔╝   ██║   ███████╗███████╗██║  ██║███████╗   ██║   ███████╗        ╚██████╔╝██║██║  ██║ ╚████╔╝ ███████║      =
+=      ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝         ╚═════╝ ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝      =
+=                                                                                                                       =
+=                      Crafted with 🤍 by Rasheed Ali & Gemini AI - The Definitive Version                              =
+=========================================================================================================================
 -->
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_header.gif" alt="Rasheed Ali - AI Innovator" width="800px"/>
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_header.gif" alt="Rasheed Ali - AI Innovator" width="90%"/>
 </p>
 
 <!-- Social & Stats Badges -->
@@ -29,7 +28,7 @@
 
 <!-- Innovator's Log Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/innovators_log.svg" alt="Innovator's Log Header" width="600px" />
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/innovators_log.svg" alt="Innovator's Log Header" width="700px" />
 </p>
 
 <p align="center">
@@ -42,72 +41,49 @@
 
 <br>
 
-<!-- Main Content: Two-Column Layout -->
-<table>
-  <tr>
-    <!-- Left Column: Tech & Projects -->
-    <td valign="top" width="65%">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/technology_blueprint.svg" alt="Technology Blueprint Header" width="100%" />
-      </p>
-      
-      <table width="100%">
-        <tr>
-          <td valign="top" width="50%">
-            <h3 align="center">🤖 AI & Machine Learning</h3>
-            <p align="center">
-              <code>Python</code> ⋅ <code>LangChain</code> ⋅ <code>Diffusers</code><br>
-              <code>Scikit-learn</code> ⋅ <code>LlamaIndex</code> ⋅ <code>Gemma 2</code>
-            </p>
-          </td>
-          <td valign="top" width="50%">
-            <h3 align="center">⚙️ Backend & DevOps</h3>
-            <p align="center">
-              <code>Flask</code> ⋅ <code>PostgreSQL</code> ⋅ <code>MySQL</code><br>
-              <code>Git</code> ⋅ <code>GitHub</code> ⋅ <code>AWS (Conceptual)</code>
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td valign="top" width="50%">
-            <h3 align="center">⚡ Frontend & UI</h3>
-            <p align="center">
-              <code>React</code> ⋅ <code>JavaScript</code> ⋅ <code>HTML5/CSS3</code>
-            </p>
-          </td>
-          <td valign="top" width="50%">
-            <h3 align="center">🧠 Vector Databases</h3>
-            <p align="center">
-              <code>ChromaDB</code> ⋅ <code>Oracle AI Vector Search</code>
-            </p>
-          </td>
-        </tr>
-      </table>
+<!-- Performance Metrics Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/performance_metrics.svg" alt="Performance Metrics Header" width="700px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikrasheedali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Rasheed's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikrasheedali&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+</p>
 
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/mission_debriefs.svg" alt="Mission Debriefs Header" width="100%" />
-      </p>
-      
-      - **🗣️ Telugu ASR Model:** Architected a high-accuracy speech recognition pipeline to empower an underrepresented language community.
-      - **🩺 RAG-Powered Medical Chatbot:** Deployed an intuitive AI chatbot with LangChain, ChromaDB & Gemma 2, providing accessible and reliable medical information.
-      - **🎨 Artistic QR Code Generator:** Fused generative AI (SDXL & LoRA) with utility to create visually stunning QR codes that elevate brand engagement.
+<br>
 
-    </td>
-    <!-- Right Column: GitHub Stats -->
-    <td valign="top" width="35%">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/performance_metrics.svg" alt="Performance Metrics Header" width="100%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shaikrasheedali&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Rasheed's GitHub stats"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikrasheedali&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Technology Blueprint Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/technology_blueprint.svg" alt="Technology Blueprint Header" width="700px" />
+</p>
 
-<!-- Streak Stats - Full Width -->
+<p align="center">
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=langchain&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Vector DBs" src="https://img.shields.io/badge/Vector_DB-023047?style=for-the-badge&logo=weaviate&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+
+<br>
+
+<!-- Mission Debriefs Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/mission_debriefs.svg" alt="Mission Debriefs Header" width="700px" />
+</p>
+
+| Mission | Impact | Core Technologies |
+| :--- | :--- | :--- |
+| **🗣️ Telugu ASR Model** | Architected a high-accuracy speech recognition pipeline to empower an underrepresented language community. | `Python` `ML` `Swecha SOAI` |
+| **🩺 RAG-Powered Medical Chatbot** | Deployed an intuitive AI chatbot providing accessible and reliable medical information. | `LangChain` `ChromaDB` `Gemma 2` |
+| **🎨 Artistic QR Code Generator** | Fused generative AI (SDXL & LoRA) with utility to create QR codes that elevate brand engagement. | `Generative AI` `SDXL` `Diffusers` |
+
+<br>
+
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikrasheedali&theme=github-dark-blue&hide_border=true" alt="Streak stats"/>
 </p>
@@ -116,7 +92,7 @@
 
 <!-- Community & Alliances Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/community_alliances.svg" alt="Community & Alliances Header" width="600px" />
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/community_alliances.svg" alt="Community & Alliances Header" width="700px" />
 </p>
 
 <p align="center">
@@ -125,9 +101,11 @@
   🤝 Advocate: Promoter @ <b>DevTown</b> & Tester @ <b>DeepLearning.AI</b>
 </p>
 
+<br>
+
 <!-- Initiate Contact Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/initiate_contact.svg" alt="Initiate Contact Header" width="600px" />
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/initiate_contact.svg" alt="Initiate Contact Header" width="700px" />
 </p>
 
 <p align="center">
