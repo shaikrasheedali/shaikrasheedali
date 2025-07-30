@@ -110,7 +110,7 @@
 
 <p align="center">
   Active member of <b>Hyderabad & Bangalore Google DevGroups</b> and <b>Hyderabad Python Developers</b>. <br>
-  I'm also a promoter at <b>DevTown</b>, a tester at <b>DeepLearning.AI</b>, and a speaker at various AI/ML and GenAI meetups.
+  I'm also a promoter at <b>DevTown</b>, a tester at <b>DeepLearning.AI</b>, and have attended various AI/ML and GenAI meetups.
 </p>
 
 <p align="center">
