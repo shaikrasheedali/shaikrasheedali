@@ -77,10 +77,6 @@
   <li><b>Creative Problem Solver:</b> Driven by challenges that blend <i>technical rigor</i> with <i>real-world impact</i>.</li>
 </ul>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 <h2 align="center">🤝 Let's Collaborate!</h2>
 
 <p align="center" style="max-width: 700px; font-size: 1.1rem; line-height: 1.6; color:#d3dce6;">
