@@ -12,9 +12,7 @@
 -->
 
 <!-- Dynamic Typing Animation Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Rasheed+Ali+%F0%9F%91%8B;AI-Obsessed+Technologist;Software+%26+ML+Engineer;Building+the+Future+of+AI." alt="Typing SVG" /></a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=29&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Rasheed+Ali+%F0%9F%91%8B;AI-Obsessed+Technologist;Software+%26+ML+Engineer;Building+the+Future+of+AI.)
 
 <!-- Social & Stats Badges -->
 <p align="center">
