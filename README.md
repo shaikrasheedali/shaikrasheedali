@@ -7,88 +7,91 @@
 ╚███╔███╔╝███████╗██║  ██║███████╗╚██████╗██║  ██║██║  ██║███████╗███████║    ╚██████╔╝██║  ██║   ██║   ██║╚██████╗
  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝
 ====================================================================================================================
-                        Crafted with 🤍 by Rasheed Ali & Gemini AI - The Artistic Marvel
+                               Crafted with 🤍 by Rasheed Ali - Innovating Tomorrow
 ====================================================================================================================
 -->
 
-<!-- Dynamic Typing Animation Header -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=29&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Rasheed+Ali+%F0%9F%91%8B;AI-Obsessed+Technologist;Software+%26+ML+Engineer;Building+the+Future+of+AI.)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=29&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rasheed+Ali+%F0%9F%91%8B;AI-Obsessed+Technologist;Software+%26+ML+Engineer;Building+the+Future+of+AI.)
 
 </div>
 
-<!-- Social & Stats Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rasheed-ali-shaik-67a780263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/shaikrasheedali?tab=followers"><img src="https://img.shields.io/github/followers/shaikrasheedali?style=for-the-badge&logo=github&label=Followers&color=238636"></a>
-  <a href="mailto:shaikrasheedalisk@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  I'm an AI Innovator on a mission to craft intelligent, user-centric tools that bridge the gap between complex algorithms and real-world impact. My work thrives at the intersection of **Generative AI** and **robust software engineering**, guided by a **Safety-First** philosophy to build reliable and beneficial systems.
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" width="100%">
-</p>
-
-<h2 align="center">🚀 My Technology Arsenal 🚀</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,langchain,pytorch,tensorflow,scikitlearn,huggingface" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,aws,docker,git,github,vscode,figma,postman" />
+  <a href="https://www.linkedin.com/in/rasheed-ali-shaik-67a780263" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shaikrasheedali?tab=followers" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/shaikrasheedali?label=Followers&style=for-the-badge&color=38B6FF&logo=github" />
+  </a>
+  <a href="mailto:shaikrasheedalisk@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail Contact" src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" width="100%">
-</p>
-
-<h2 align="center">📊 Performance Metrics & Trophies 🏆</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikrasheedali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rasheed's GitHub stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikrasheedali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" width="100%">
-</p>
-
-<h2 align="center">🛰️ Mission Debriefs: Key Projects 🛰️</h2>
-
-| Project | Mission Objective | Core Technologies |
-| :--- | :--- | :--- |
-| **🗣️ Telugu ASR Model** | Engineered a robust ML pipeline for native speech recognition, improving accuracy for an underrepresented language. | `Python`, `ML`, `Swecha SOAI` |
-| **🩺 RAG-Powered Medical Chatbot** | Built an intuitive Q&A system to empower users with accurate medical info. | `LangChain`, `ChromaDB`, `Gemma 2` |
-| **🎨 Artistic QR Code Generator** | Fused SDXL & LoRA to create visually stunning QR codes that boost brand interaction and user curiosity. | `Generative AI`, `SDXL`, `Diffusers` |
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" width="100%">
-</p>
-
-<h2 align="center">🐍 My GitHub Activity Snake 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
 ---
 
 <p align="center">
-  <b>What AI-powered tool would completely revolutionize your daily workflow?</b><br>
-  Let's connect and build something that matters, together.
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
+</p>
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center" style="max-width: 700px; font-size: 1.1rem; line-height:1.6; color:#d3dce6;">
+  I am an <b>AI Innovator</b> dedicated to designing <i><b>intelligent, user-centric platforms</b></i> that <b>translate complex algorithms</b> into impactful real-world solutions. My expertise thrives at the intersection of <span style="color:#00d4ff;"><b>Generative AI</b></span>, <span style="color:#ff5722;"><b>Software Engineering</b></span>, and <b><i>Machine Learning</i></b>, grounded in a staunch <i>Safety-First</i> approach. I passionately build <b>scalable, robust, and ethical systems</b> shaping the future of AI technology.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikrasheedali&label=PROFILE+VIEWS&color=00D4FF&style=flat-square" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
 </p>
+
+<h2 align="center">🛠️ Technology Stack & Tools</h2>
+
+<p align="center">
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=python,cpp,js,html,css,pytorch,tensorflow,scikitlearn,flask,react,huggingface,postgres,mysql,mongodb,aws,docker,git,vscode,figma,postman,langchain,linux,oracle,github,azure,gcp" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
+</p>
+
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaikrasheedali&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <br />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=shaikrasheedali&theme=tokyonight&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
+</p>
+
+<h2 align="center">✨ Core Strengths & Personal Highlights</h2>
+
+<ul style="max-width: 650px; margin-left: auto; margin-right: auto; font-size: 1rem; line-height: 1.5; color: #cfd8dc;">
+  <li><b>Cutting-Edge AI Research:</b> Continuously pushing boundaries in <i>prompt engineering</i>, <i>retrieval-augmented generation (RAG)</i>, and <i>multi-modal large language models (LLMs)</i>.</li>
+  <li><b>Full-Stack ML Pipelines:</b> Developing <b>robust, scalable machine learning workflows</b> aligned with production-grade software standards.</li>
+  <li><b>Ethical & Safety-Centered:</b> Embracing a <i>Safety-First philosophy</i> to build trustworthy AI products with <b>user safety and compliance</b> at the core.</li>
+  <li><b>Open Source Contributor:</b> Committed to <i>knowledge-sharing</i> and empowering global communities through collaboration.</li>
+  <li><b>Creative Problem Solver:</b> Driven by challenges that blend <i>technical rigor</i> with <i>real-world impact</i>.</li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<h2 align="center">🤝 Let's Collaborate!</h2>
+
+<p align="center" style="max-width: 700px; font-size: 1.1rem; line-height: 1.6; color:#d3dce6;">
+  <b>How can we harness AI’s creative, ethical, and transformative power together?</b><br />
+  I'm always excited to connect, collaborate, and co-create future-ready AI solutions — feel free to reach out via LinkedIn or email!
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shaikrasheedali&label=Profile+Views&color=00D4FF&style=flat-square" />
+</p>
+
+<footer align="center" style="font-size: 0.9rem; color: #6c7a89; margin-top: 1.5rem;">
+  Crafted with 🤍 by Rasheed Ali — Innovating AI, Engineering Dreams
+</footer>
