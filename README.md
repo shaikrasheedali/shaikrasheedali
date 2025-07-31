@@ -24,7 +24,7 @@
   <a href="https://github.com/shaikrasheedali?tab=followers" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/shaikrasheedali?label=Followers&style=for-the-badge&color=38B6FF&logo=github" />
   </a>
-  <a href="mailto:shaikrasheedalisk@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:sk.rasheedali@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail Contact" src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
