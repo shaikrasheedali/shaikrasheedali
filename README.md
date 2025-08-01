@@ -13,6 +13,8 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" />
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=29&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rasheed+Ali+%F0%9F%91%8B;AI-Obsessed+Technologist;Software+%26+ML+Engineer;Building+the+Future+of+AI.)
 
 </div>
@@ -42,8 +44,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzByN2tpNGd6a3lwcmV5ejBodDFmbmVvOGVyNGpidXgwZnFnODh4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.gif" width="500" />
 </p>
+
+---
 
 <h2 align="center">🛠️ Technology Stack & Tools</h2>
 
@@ -51,9 +55,7 @@
   <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=python,cpp,js,html,css,pytorch,tensorflow,scikitlearn,flask,react,huggingface,postgres,mysql,mongodb,aws,docker,git,vscode,figma,postman,langchain,linux,oracle,github,azure,gcp" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
-</p>
+---
 
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
@@ -63,31 +65,80 @@
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=shaikrasheedali&theme=tokyonight&no-bg=true&margin-w=4" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shaikrasheedali/shaikrasheedali/main/assets/animated_line_divider.gif" alt="divider" width="100%" />
-</p>
+---
 
-<h2 align="center">✨ Core Strengths & Personal Highlights</h2>
+<h2 align="center">✨ Core Strengths</h2>
 
 <ul style="max-width: 650px; margin-left: auto; margin-right: auto; font-size: 1rem; line-height: 1.5; color: #cfd8dc;">
-  <li><b>Cutting-Edge AI Research:</b> Continuously pushing boundaries in <i>prompt engineering</i>, <i>retrieval-augmented generation (RAG)</i>, and <i>multi-modal large language models (LLMs)</i>.</li>
-  <li><b>Full-Stack ML Pipelines:</b> Developing <b>robust, scalable machine learning workflows</b> aligned with production-grade software standards.</li>
-  <li><b>Ethical & Safety-Centered:</b> Embracing a <i>Safety-First philosophy</i> to build trustworthy AI products with <b>user safety and compliance</b> at the core.</li>
-  <li><b>Open Source Contributor:</b> Committed to <i>knowledge-sharing</i> and empowering global communities through collaboration.</li>
-  <li><b>Creative Problem Solver:</b> Driven by challenges that blend <i>technical rigor</i> with <i>real-world impact</i>.</li>
+  <li><b>Cutting-Edge AI Research:</b> Generative pipelines, RAG, Multimodal models</li>
+  <li><b>Production-Ready Pipelines:</b> Real-time systems with MLOps and optimization</li>
+  <li><b>Safety-Driven:</b> Security, explainability, and trustworthiness in all AI tools</li>
+  <li><b>Community-Oriented:</b> Mentor, trainer, and contributor to open projects</li>
+  <li><b>BMW Dev Energy:</b> Fast, sleek, and always leveling up 🚗</li>
 </ul>
 
-<h2 align="center">🤝 Let's Collaborate!</h2>
+---
 
-<p align="center" style="max-width: 700px; font-size: 1.1rem; line-height: 1.6; color:#d3dce6;">
-  <b>How can we harness AI’s creative, ethical, and transformative power together?</b><br />
-  I'm always excited to connect, collaborate, and co-create future-ready AI solutions — feel free to reach out via LinkedIn or email!
+<h2 align="center">🌐 Community & Network</h2>
+
+<p align="center">
+  🔹 Hyderabad & Bangalore GDGs<br/>
+  🔹 Hyderabad Python & MongoDB UG<br/>
+  🔹 DevTown AI Evangelist<br/>
+  🔹 DeepLearning.AI Finetuning Tester
+</p>
+
+---
+
+<h2 align="center">☕ Espresso Humor</h2>
+
+> “Optimized my ASR pipeline so well… my coffee machine now completes my sentences.”
+
+<p align="center">
+  <img src="https://github.com/shaikrasheedali/kasai-kamal/blob/4d643ce2f2ca152b0fbae2b0a6ea144e5774d0fe/coffee-machine.gif?raw=true" width="1000" />
+</p>
+
+---
+
+<h2 align="center">🏎️ Speedrun Dev Vibes</h2>
+
+> “Shipping features faster than a McLaren on a track.”
+
+<p align="center">
+  <img src="https://github.com/shaikrasheedali/kasai-kamal/blob/3f6cb516b19c6791dfe7ab3586738d0ab3aaa3b8/mclaren.gif?raw=true" width="1000" />
+</p>
+
+---
+
+<h2 align="center">🤝 Let’s Collaborate!</h2>
+
+<p align="center" style="font-size: 1.05rem;">
+  I’m always excited to connect, collaborate, and co-create ambitious, ethical, and futuristic AI solutions.<br/><br/>
+  <b>Let's code something legendary together.</b>
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shaikrasheedali&label=Profile+Views&color=00D4FF&style=flat-square" />
+  <a href="mailto:sk.rasheedali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_Me_A_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Borrow_my_BMW-Just_Don't_Crash_It-000000?style=for-the-badge" />
+</p>
+
+
+---
+
+<h2 align="center">❓ Icebreaker</h2>
+
+<p align="center" style="font-size: 1.05rem;">
+  If you had a terminal-based AI genie, infinite compute, and unlimited coffee — what problem would you automate first?
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaikrasheedali&label=Profile+Views&color=00D4FF&style=flat-square" />
 </p>
 
 <footer align="center" style="font-size: 0.9rem; color: #6c7a89; margin-top: 1.5rem;">
-  Crafted with 🤍 by Rasheed Ali — Innovating AI, Engineering Dreams
+  🚀 Created with love, espresso, and code by <b>Rasheed Ali</b> — always evolving ✨
 </footer>
