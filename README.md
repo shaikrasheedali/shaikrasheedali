@@ -95,7 +95,7 @@
 > “Optimized my ASR pipeline so well… my coffee machine now completes my sentences.”
 
 <p align="center">
-  <img src="https://github.com/shaikrasheedali/kasai-kamal/blob/4d643ce2f2ca152b0fbae2b0a6ea144e5774d0fe/coffee-machine.gif?raw=true" width="1000" />
+  <img src="https://github.com/shaikrasheedali/shaikrasheedali/blob/605d7938298723949fe554961c546057b7d356e2/coffee-machine.gif?raw=true" width="1000" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 > “Shipping features faster than a McLaren on a track.”
 
 <p align="center">
-  <img src="https://github.com/shaikrasheedali/kasai-kamal/blob/3f6cb516b19c6791dfe7ab3586738d0ab3aaa3b8/mclaren.gif?raw=true" width="1000" />
+  <img src="https://github.com/shaikrasheedali/shaikrasheedali/blob/605d7938298723949fe554961c546057b7d356e2/mclaren.gif?raw=true" width="1000" />
 </p>
 
 ---
